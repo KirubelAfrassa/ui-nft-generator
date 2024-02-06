@@ -1,0 +1,124 @@
+ {
+    "title": "home-01",
+    "content": [
+        {
+            "section": "hero-section",
+            "headings": [
+                {
+                    "id": 1,
+                    "content": "No Code NFT Creator to Make Your NFT Art Collection"
+                }
+            ],
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "Build collection quicker and easier. You can deploy your 10K collection on opensea in a minutes"
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "content": "Get Started",
+                    "path": "/"
+                },
+                {
+                    "id": 2,
+                    "color": "primary-alta",
+                    "content": "Create",
+                    "path": "/nft"
+                }
+            ],
+            "images": [
+                {
+                    "src": "/images/slider/slider-2.png"
+                }
+            ]
+        },
+        {
+            "section": "service-section",
+            "section_title": {
+                "title": "Generate 10K Nft And Build Collection On Blockchain"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Set up your wallet",
+                    "path": "/connect",
+                    "subtitle": "Step-01",
+                    "description": "Powerful features and inclusions, which makes Nft Guru standout, easily customizable and scalable.",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-7.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Create your collection",
+                    "path": "/collection",
+                    "subtitle": "Step-02",
+                    "description": "A great collection of beautiful website templates for your need. Choose the best suitable template.",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Generate 10K NFT",
+                    "path": "/connect",
+                    "subtitle": "Step-03",
+                    "description": "Define your rarity settings, rarity tags and generate random 10k NFT",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-5.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Deploy on Blockchain",
+                    "path": "/creator",
+                    "subtitle": "Step-04",
+                    "description": "Deploy your collection blockchain and show any marketplaces such as opensea, rarible...",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-6.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "live-explore-section",
+            "section_title": {
+                "title": "Live Bidding"
+            }
+        },
+        {
+            "section": "newest-section",
+            "section_title": {
+                "title": "Newest Items"
+            }
+        },
+        {
+            "section": "top-sller-section",
+            "section_title": {
+                "title": "Top Seller in"
+            }
+        },
+        {
+            "section": "explore-product-section",
+            "section_title": {
+                "title": "Explore Product"
+            }
+        },
+        {
+            "section": "collection-section",
+            "section_title": {
+                "title": "Top Collection"
+            }
+        }
+    ]
+}
